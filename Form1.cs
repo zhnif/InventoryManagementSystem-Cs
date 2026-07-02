@@ -27,7 +27,7 @@ namespace InventoryManagementSystem
 
         private void registerLabel_Click(object sender, EventArgs e)
         {
-            RegisterForm regForm = new RegisterForm();
+            RegisterForm regForm = new RegisterForm();  
             regForm.Show();
 
             this.Hide();

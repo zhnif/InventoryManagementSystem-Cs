@@ -43,8 +43,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.adminAddUsers1 = new InventoryManagementSystem.AdminAddUsers();
             this.adminDashboard1 = new InventoryManagementSystem.AdminDashboard();
+            this.adminAddUsers1 = new InventoryManagementSystem.AdminAddUsers();
+            this.adminAddCategories1 = new InventoryManagementSystem.AdminAddCategories();
+            this.adminAddProducts1 = new InventoryManagementSystem.AdminAddProducts();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -58,7 +60,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(800, 44);
+            this.panel1.Size = new System.Drawing.Size(932, 44);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -66,7 +68,7 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 10);
+            this.label1.Location = new System.Drawing.Point(78, 10);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(382, 24);
             this.label1.TabIndex = 1;
@@ -78,7 +80,7 @@
             this.close.BackColor = System.Drawing.Color.Red;
             this.close.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkRed;
             this.close.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.close.Location = new System.Drawing.Point(742, 12);
+            this.close.Location = new System.Drawing.Point(874, 10);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(46, 23);
             this.close.TabIndex = 1;
@@ -226,34 +228,52 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.adminAddProducts1);
+            this.panel3.Controls.Add(this.adminAddCategories1);
             this.panel3.Controls.Add(this.adminAddUsers1);
             this.panel3.Controls.Add(this.adminDashboard1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel3.Location = new System.Drawing.Point(184, 44);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(616, 496);
+            this.panel3.Size = new System.Drawing.Size(748, 496);
             this.panel3.TabIndex = 2;
-            // 
-            // adminAddUsers1
-            // 
-            this.adminAddUsers1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.adminAddUsers1.Location = new System.Drawing.Point(0, 0);
-            this.adminAddUsers1.Name = "adminAddUsers1";
-            this.adminAddUsers1.Size = new System.Drawing.Size(616, 496);
-            this.adminAddUsers1.TabIndex = 1;
             // 
             // adminDashboard1
             // 
             this.adminDashboard1.Location = new System.Drawing.Point(0, 0);
             this.adminDashboard1.Name = "adminDashboard1";
-            this.adminDashboard1.Size = new System.Drawing.Size(616, 496);
+            this.adminDashboard1.Size = new System.Drawing.Size(748, 496);
             this.adminDashboard1.TabIndex = 0;
+            // 
+            // adminAddUsers1
+            // 
+            this.adminAddUsers1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.adminAddUsers1.Location = new System.Drawing.Point(-3, 0);
+            this.adminAddUsers1.Name = "adminAddUsers1";
+            this.adminAddUsers1.Size = new System.Drawing.Size(748, 496);
+            this.adminAddUsers1.TabIndex = 1;
+            // 
+            // adminAddCategories1
+            // 
+            this.adminAddCategories1.BackColor = System.Drawing.Color.DarkGray;
+            this.adminAddCategories1.Location = new System.Drawing.Point(0, 0);
+            this.adminAddCategories1.Name = "adminAddCategories1";
+            this.adminAddCategories1.Size = new System.Drawing.Size(748, 496);
+            this.adminAddCategories1.TabIndex = 2;
+            // 
+            // adminAddProducts1
+            // 
+            this.adminAddProducts1.BackColor = System.Drawing.Color.Gray;
+            this.adminAddProducts1.Location = new System.Drawing.Point(0, 0);
+            this.adminAddProducts1.Name = "adminAddProducts1";
+            this.adminAddProducts1.Size = new System.Drawing.Size(748, 496);
+            this.adminAddProducts1.TabIndex = 3;
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 540);
+            this.ClientSize = new System.Drawing.Size(932, 540);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
@@ -288,6 +308,8 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel3;
         private AdminDashboard adminDashboard1;
+        private AdminAddProducts adminAddProducts1;
+        private AdminAddCategories adminAddCategories1;
         private AdminAddUsers adminAddUsers1;
     }
 }

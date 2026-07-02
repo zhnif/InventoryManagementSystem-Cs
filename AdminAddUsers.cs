@@ -129,6 +129,10 @@ namespace InventoryManagementSystem
                         {
                             connect.Open();
 
+
+
+                            connect.Open();
+
                             string updateData = "UPDATE users SET username = @usern," +
                                 "password = @pass, role = @role, status = @status WHERE id = @id";
 
@@ -140,7 +144,7 @@ namespace InventoryManagementSystem
                                 updateD.Parameters.AddWithValue("@status", addUsers_status.SelectedItem);
                                 updateD.Parameters.AddWithValue("@id", getID);
 
-                                updateD.ExecuteNonQuery(); 
+                                updateD.ExecuteNonQuery();
                                 displayAllUsersData();
                                 clearFields();
                                 MessageBox.Show("Updated Successfully!", "Information Message",
