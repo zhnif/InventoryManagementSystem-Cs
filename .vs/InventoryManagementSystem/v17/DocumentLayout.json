@@ -3,51 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\queryInventoryManagementSystem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\categoriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\categoriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:categoriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|c:\\users\\hp\\desktop\\dailyc#\\inventorymanagementsystem\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,20 +51,34 @@
       "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\queryInventoryManagementSystem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\queryInventoryManagementSystem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAE075-DCB7-4F80-9966-67312D32C0A1}|InventoryManagementSystem.csproj|solutionrelative:usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 297,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 249,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,69 +102,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdminAddProducts.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddProducts.cs",
               "RelativeDocumentMoniker": "AdminAddProducts.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddProducts.cs",
               "RelativeToolTip": "AdminAddProducts.cs",
-              "ViewState": "AgIAAAkBAAAAAAAAAAAAwB4BAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:54:57.183Z",
+              "WhenOpened": "2026-07-04T08:28:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "CashierOrder.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierOrder.cs",
+              "RelativeToolTip": "CashierOrder.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAwO8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T01:07:23.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsData.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\ProductsData.cs",
+              "RelativeDocumentMoniker": "ProductsData.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\ProductsData.cs",
+              "RelativeToolTip": "ProductsData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T01:00:32.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CashierOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "CashierOrder.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierOrder.cs [Design]",
+              "RelativeToolTip": "CashierOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T23:03:16.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersData.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\OrdersData.cs",
+              "RelativeDocumentMoniker": "OrdersData.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\OrdersData.cs",
+              "RelativeToolTip": "OrdersData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:31:53.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashierMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierMainForm.cs [Design]",
+              "RelativeToolTip": "CashierMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:42:10.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashierMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CashierMainForm.cs",
+              "RelativeToolTip": "CashierMainForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:09:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AdminAddProducts.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddProducts.cs",
               "RelativeDocumentMoniker": "AdminAddProducts.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddProducts.cs [Design]",
               "RelativeToolTip": "AdminAddProducts.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T13:03:01.944Z",
+              "WhenOpened": "2026-07-04T00:12:40.805Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "queryInventoryManagementSystem.sql ",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\queryInventoryManagementSystem.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\queryInventoryManagementSystem.sql",
-              "ToolTip": "queryInventoryManagementSystem.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-07-01T06:52:46.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersData.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\UsersData.cs",
-              "RelativeDocumentMoniker": "UsersData.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\UsersData.cs",
-              "RelativeToolTip": "UsersData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T21:29:40.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsData.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\ProductsData.cs",
-              "RelativeDocumentMoniker": "ProductsData.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\ProductsData.cs",
-              "RelativeToolTip": "ProductsData.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwBMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T17:33:16.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AdminAddCategories.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddCategories.cs",
               "RelativeDocumentMoniker": "AdminAddCategories.cs",
@@ -169,20 +215,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CategoriesData.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CategoriesData.cs",
               "RelativeDocumentMoniker": "CategoriesData.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\CategoriesData.cs",
               "RelativeToolTip": "CategoriesData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T11:32:15.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T15:57:03.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T05:03:08.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -194,20 +265,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminAddUsers.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddUsers.cs",
-              "RelativeDocumentMoniker": "AdminAddUsers.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddUsers.cs",
-              "RelativeToolTip": "AdminAddUsers.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAlwJgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AdminAddCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddCategories.cs",
+              "RelativeDocumentMoniker": "AdminAddCategories.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddCategories.cs",
+              "RelativeToolTip": "AdminAddCategories.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwKgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T17:21:20.348Z",
+              "WhenOpened": "2026-07-02T11:46:11.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AdminAddUsers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddUsers.cs",
               "RelativeDocumentMoniker": "AdminAddUsers.cs",
@@ -219,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AdminDashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "AdminDashboard.cs",
@@ -231,46 +302,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminAddCategories.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddCategories.cs",
-              "RelativeDocumentMoniker": "AdminAddCategories.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\AdminAddCategories.cs",
-              "RelativeToolTip": "AdminAddCategories.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAcwKUAAAArAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "UsersData.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\UsersData.cs",
+              "RelativeDocumentMoniker": "UsersData.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\UsersData.cs",
+              "RelativeToolTip": "UsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T11:46:11.253Z",
+              "WhenOpened": "2026-07-01T21:29:40.551Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwB0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T15:57:03.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\dailyC#\\InventoryManagementSystem\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T05:03:08.021Z",
-              "EditorCaption": " [Design]"
             }
           ]
         },
         {
-          "DockedHeight": 297,
+          "DockedWidth": 297,
           "SelectedChildIndex": -1,
           "Children": [
             {

@@ -302,7 +302,7 @@ namespace InventoryManagementSystem
                         {
                             connect.Open();
 
-                            string deleteData = "DELTE FROM products WHERE id = @id";
+                            string deleteData = "DELETE FROM products WHERE id = @id";
 
                             using (SqlCommand deleteD = new SqlCommand(deleteData, connect))
                             {

@@ -14,4 +14,6 @@ C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagem
 C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
 C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AdminAddCategories.resources
 C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AdminAddProducts.resources
+C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CashierMainForm.resources
+C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CashierOrder.resources
 C:\Users\Hp\Desktop\dailyC#\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe.config
